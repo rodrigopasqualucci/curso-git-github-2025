@@ -1,0 +1,1 @@
+Documento padrão do repositório
